@@ -1,0 +1,941 @@
+﻿@charset "utf-8";
+
+/* CSS Hoja de estilos OFERTA ACADEMICA 2011-1(BETA).fet
+   Hoja de estilos generada con FET 5.14.3 de 19/01/11 09:49 */
+
+/* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
+/* To hide an element just write the following phrase into the element: "display:none;" (without quotes). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left:auto; margin-right:auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+thead {
+
+}
+
+/* OpenOffice.org imports the "tfoot" incorrectly. So we use "tr.foot" instead of "tfoot".
+   See the link http://www.openoffice.org/issues/show_bug.cgi?id=82600 for more details.
+tfoot {
+
+}*/
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/*width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+span.s_1 { /* subject ADMINISTRACIÓN DE LA PRODUCCIÓN */
+
+}
+
+span.s_2 { /* subject ADMINISTRACIÓN DE RECURSOS HUMANOS */
+
+}
+
+span.s_3 { /* subject ADMINISTRACIÓN PÚBLICA */
+
+}
+
+span.s_4 { /* subject ADMINISTRACIÓN Y ORGANIZACIÓN DE VENTAS */
+
+}
+
+span.s_5 { /* subject ANALISIS Y MANEJO DE CARTERAS DE INVERSION */
+
+}
+
+span.s_6 { /* subject ANÁLISIS DE ESTADOS FINANCIEROS */
+
+}
+
+span.s_7 { /* subject ANÁLISIS DE PRODUCTIVIDAD DEL MERCADEO */
+
+}
+
+span.s_8 { /* subject ANÁLISIS DE PRODUCTOS */
+
+}
+
+span.s_9 { /* subject ASPECTOS LEGALES DEL MERCADEO */
+
+}
+
+span.s_10 { /* subject ACCIÓN Y POLÍTICA DE REMUNERACIÓN */
+
+}
+
+span.s_11 { /* subject COMERCIALIZACIÓN */
+
+}
+
+span.s_12 { /* subject COMERCIO INTERNACIONAL */
+
+}
+
+span.s_13 { /* subject CONTABILIDAD DE COSTOS I */
+
+}
+
+span.s_14 { /* subject CONTABILIDAD I */
+
+}
+
+span.s_15 { /* subject CONTABILIDAD II */
+
+}
+
+span.s_16 { /* subject COMPORTAMIENTO ORGANIZACIONAL */
+
+}
+
+span.s_17 { /* subject DESARROLLO ORGANIZACIONAL */
+
+}
+
+span.s_18 { /* subject DIRECCIÓN DE MERCADEO */
+
+}
+
+span.s_19 { /* subject DERECHO DEL TRABAJO */
+
+}
+
+span.s_20 { /* subject DESARROLLO SOCIO-ECONÓMICO */
+
+}
+
+span.s_21 { /* subject ECONOMÍA GENERAL */
+
+}
+
+span.s_22 { /* subject ESTADÍSTICA II */
+
+}
+
+span.s_23 { /* subject ESTADÍSTICA I */
+
+}
+
+span.s_24 { /* subject FINANZAS E IMPUESTO */
+
+}
+
+span.s_25 { /* subject FORMULACIÓN DE PROYECTO  SOCIO COMUNITARIO */
+
+}
+
+span.s_26 { /* subject FORMULACIÓN Y EVALUACIÓN DE PROYECTOS */
+
+}
+
+span.s_27 { /* subject GESTIÓN DE TECNOLOGÍA */
+
+}
+
+span.s_28 { /* subject HISTORIA ECONÓMICA Y SOCIAL DE VENEZUELA */
+
+}
+
+span.s_29 { /* subject INTRODUCCION A LA ADMINISTRACION */
+
+}
+
+span.s_30 { /* subject INTRODUCCIÓN AL PROCESAMIENTO DE DATOS */
+
+}
+
+span.s_31 { /* subject INTRODUCCIÓN AL SERVICIO COMUNITARIO */
+
+}
+
+span.s_32 { /* subject INVESTIGACIÓN DE MERCADEO */
+
+}
+
+span.s_33 { /* subject INVESTIGACIÓN SOCIAL  */
+
+}
+
+span.s_34 { /* subject INICIACIÓN UNIVERSITARIA */
+
+}
+
+span.s_35 { /* subject LEGISLACIÓN MERCANTIL */
+
+}
+
+span.s_36 { /* subject LENGUAJE Y COMUNICACIÓN */
+
+}
+
+span.s_37 { /* subject MATEMÁTICA FINANCIERA */
+
+}
+
+span.s_38 { /* subject MERCADEO */
+
+}
+
+span.s_39 { /* subject MERCADEO II */
+
+}
+
+span.s_40 { /* subject METODOLOGÍA DE LA INVESTIGACIÓN I */
+
+}
+
+span.s_41 { /* subject METODOLOGÍA DE LA INVESTIGACIÓN II */
+
+}
+
+span.s_42 { /* subject MODELOS ADMINISTRATIVOS */
+
+}
+
+span.s_43 { /* subject MÉTODOS Y TÉCNICAS DE ESTUDIO */
+
+}
+
+span.s_44 { /* subject PLANIFICACIÓN */
+
+}
+
+span.s_45 { /* subject PLANIFICACIÓN Y ESTRATEGIAS DE MERCADO */
+
+}
+
+span.s_46 { /* subject PRESUPUESTO */
+
+}
+
+span.s_47 { /* subject PSICOLOGÍA APLICADA AL MERCADEO */
+
+}
+
+span.s_48 { /* subject PUBLICIDAD, PROMOCION */
+
+}
+
+span.s_49 { /* subject PLANIFICACIÓN DE RECURSOS HUMANOS */
+
+}
+
+span.s_50 { /* subject POLÍTICA DE DESARROLLO ECONÓMICO SOCIAL Y POLÍTICA DE EMPLEO */
+
+}
+
+span.s_51 { /* subject PRECALCULO */
+
+}
+
+span.s_52 { /* subject PROBLEMÁTICA DE ADMINISTRACIÓN DE RECURSOS HUMANOS EN VENEZUELA */
+
+}
+
+span.s_53 { /* subject PSICOLOGÍA INDUSTRIAL */
+
+}
+
+span.s_54 { /* subject SISTEMAS DE INFORMACION GERENCIAL */
+
+}
+
+span.s_55 { /* subject SEGURIDAD SOCIAL */
+
+}
+
+span.s_56 { /* subject SINDICALISMO Y CONTRATACIÓN COLECTIVA */
+
+}
+
+span.s_57 { /* subject TECNICAS DE DECISION Y SUS PROCESOS */
+
+}
+
+span.s_58 { /* subject TERMINOLOGÍA EN ESTADÍSTICA E INVESTIGACIÓN */
+
+}
+
+span.s_59 { /* subject TÉCNICAS DE DISTRIBUCIÓN Y LOCALIZACIÓN DE FACILIDADES */
+
+}
+
+span.s_60 { /* subject TÉCNICAS DE PROGRAMACIÓN Y CONTROL APLICADAS AL MERCADEO */
+
+}
+
+span.s_61 { /* subject TÉCNICAS DE ANÁLISIS Y EVALUACIÓN DE CARGOS */
+
+}
+
+span.s_62 { /* subject TÉCNICAS DE CAPACITACIÓN, ADIESTRAMIENTO Y DESARROLLO DE RECURSOS HUMANOS */
+
+}
+
+span.s_63 { /* subject TÉCNICAS DE EVALUACIÓN DE EFICIENCIA */
+
+}
+
+span.s_64 { /* subject TÉCNICAS DE RECLUTAMIENTO Y SELECCIÓN */
+
+}
+
+span.s_65 { /* subject TÉCNICAS DE SUPERVISIÓN */
+
+}
+
+span.ss_3 { /* students set A 1 */
+
+}
+
+span.ss_4 { /* students set B 1 */
+
+}
+
+span.ss_5 { /* students set C 1 */
+
+}
+
+span.ss_6 { /* students set D 1 */
+
+}
+
+span.ss_7 { /* students set E 1 */
+
+}
+
+span.ss_9 { /* students set A 2 */
+
+}
+
+span.ss_10 { /* students set B 2 */
+
+}
+
+span.ss_11 { /* students set C 2 */
+
+}
+
+span.ss_12 { /* students set D 2 */
+
+}
+
+span.ss_13 { /* students set E 2 */
+
+}
+
+span.ss_15 { /* students set A 3 */
+
+}
+
+span.ss_16 { /* students set B 3 */
+
+}
+
+span.ss_17 { /* students set C 3 */
+
+}
+
+span.ss_18 { /* students set D 3 */
+
+}
+
+span.ss_19 { /* students set E 3 */
+
+}
+
+span.ss_20 { /* students set F 3 */
+
+}
+
+span.ss_22 { /* students set A 4 */
+
+}
+
+span.ss_23 { /* students set B 4 */
+
+}
+
+span.ss_24 { /* students set C 4 */
+
+}
+
+span.ss_25 { /* students set D 4 */
+
+}
+
+span.ss_26 { /* students set E 4 */
+
+}
+
+span.ss_27 { /* students set F 4 */
+
+}
+
+span.ss_28 { /* students set G 4 */
+
+}
+
+span.ss_29 { /* students set H 4 */
+
+}
+
+span.ss_30 { /* students set I 4 */
+
+}
+
+span.ss_31 { /* students set J 4 */
+
+}
+
+span.ss_33 { /* students set A 5 */
+
+}
+
+span.ss_34 { /* students set B 5 */
+
+}
+
+span.ss_35 { /* students set C 5 */
+
+}
+
+span.ss_36 { /* students set D 5 */
+
+}
+
+span.ss_37 { /* students set E 5 */
+
+}
+
+span.ss_38 { /* students set F 5 */
+
+}
+
+span.ss_39 { /* students set G 5 */
+
+}
+
+span.ss_41 { /* students set A6 RRHH */
+
+}
+
+span.ss_42 { /* students set A6 MERCADEO */
+
+}
+
+span.ss_44 { /* students set A7 RRHH */
+
+}
+
+span.ss_45 { /* students set A7 MERCADEO */
+
+}
+
+span.ss_47 { /* students set A8 RRHH */
+
+}
+
+span.ss_48 { /* students set B8 RRHH */
+
+}
+
+span.ss_49 { /* students set A8 MERCADEO */
+
+}
+
+span.ss_51 { /* students set A9 RRHH */
+
+}
+
+span.ss_52 { /* students set A9 MERCADEO */
+
+}
+
+span.ss_53 { /* students set B9 MERCADEO */
+
+}
+
+span.ss_57 { /* students set A EC */
+
+}
+
+span.ss_58 { /* students set B EC */
+
+}
+
+span.ss_59 { /* students set C EC */
+
+}
+
+span.ss_60 { /* students set A EC TURNO MAÑANA */
+
+}
+
+span.ss_62 { /* students set A E  MERCADEO */
+
+}
+
+span.ss_64 { /* students set A  E RRHH */
+
+}
+
+span.t_1 { /* teacher ALMUDENA VASQUEZ */
+
+}
+
+span.t_2 { /* teacher ANGEL GRANADOS */
+
+}
+
+span.t_3 { /* teacher ARGENIS MARCANO */
+
+}
+
+span.t_4 { /* teacher ARGENIS ROMERO */
+
+}
+
+span.t_5 { /* teacher BLANCA TORREALBA */
+
+}
+
+span.t_6 { /* teacher DANNY PEÑA */
+
+}
+
+span.t_7 { /* teacher DARIO GOMEZ */
+
+}
+
+span.t_8 { /* teacher DIEGO DURAN */
+
+}
+
+span.t_9 { /* teacher ELSY ROJAS */
+
+}
+
+span.t_10 { /* teacher ERLYS OCANTO */
+
+}
+
+span.t_11 { /* teacher ESTRELLA YUSTIZ */
+
+}
+
+span.t_12 { /* teacher FERNANDO BARBARA */
+
+}
+
+span.t_13 { /* teacher GLEDYS GONZALEZ */
+
+}
+
+span.t_14 { /* teacher GLORIA MENDEZ */
+
+}
+
+span.t_15 { /* teacher GLORIS DUGARTE */
+
+}
+
+span.t_16 { /* teacher GUSTAVO GONZALEZ */
+
+}
+
+span.t_17 { /* teacher HERNAN URDANETA */
+
+}
+
+span.t_18 { /* teacher ITALIA CAMPORA */
+
+}
+
+span.t_19 { /* teacher JAIDA GONZALES */
+
+}
+
+span.t_20 { /* teacher JERIG PARGA */
+
+}
+
+span.t_21 { /* teacher JOHANA VANMONTE */
+
+}
+
+span.t_22 { /* teacher JORGE CASTILLO */
+
+}
+
+span.t_23 { /* teacher JOSE GUTIERREZ */
+
+}
+
+span.t_24 { /* teacher JOSE LUIS GUZMAN */
+
+}
+
+span.t_25 { /* teacher LINA ROMERO */
+
+}
+
+span.t_26 { /* teacher LOREANA RAMIREZ */
+
+}
+
+span.t_27 { /* teacher LUIS ALVAREZ */
+
+}
+
+span.t_28 { /* teacher LUIS COLOMBO */
+
+}
+
+span.t_29 { /* teacher LUIS TORRES */
+
+}
+
+span.t_30 { /* teacher MARIA CASTRO */
+
+}
+
+span.t_31 { /* teacher MARIA LOZADA */
+
+}
+
+span.t_32 { /* teacher MARIA MENDEZ */
+
+}
+
+span.t_33 { /* teacher MARIA MUJICA */
+
+}
+
+span.t_34 { /* teacher MARIA PETROSANTI */
+
+}
+
+span.t_35 { /* teacher MARIELA SANTANDER */
+
+}
+
+span.t_36 { /* teacher MARLENE GUTIERREZ */
+
+}
+
+span.t_37 { /* teacher MERY ESCALONA */
+
+}
+
+span.t_38 { /* teacher NANCY TORRES */
+
+}
+
+span.t_39 { /* teacher NELSON FERNANDEZ */
+
+}
+
+span.t_40 { /* teacher OSWALDO TONA */
+
+}
+
+span.t_41 { /* teacher PABLO ARROYO */
+
+}
+
+span.t_42 { /* teacher PATRICIA LEON */
+
+}
+
+span.t_43 { /* teacher PEDRO IZARZA */
+
+}
+
+span.t_44 { /* teacher PEDRO RODRIGUEZ */
+
+}
+
+span.t_45 { /* teacher RONALD ORDOÑEZ */
+
+}
+
+span.t_46 { /* teacher ROSA PEROZO */
+
+}
+
+span.t_47 { /* teacher RUBEN ISTURIZ */
+
+}
+
+span.t_48 { /* teacher SANDRA PEÑA */
+
+}
+
+span.t_49 { /* teacher SHERLY MERIDA */
+
+}
+
+span.t_50 { /* teacher SONIA PINEDA */
+
+}
+
+span.t_51 { /* teacher SORAYA NOGUERA */
+
+}
+
+span.t_52 { /* teacher SUSANA RODRIGUEZ */
+
+}
+
+span.t_53 { /* teacher VICKI MATA */
+
+}
+
+span.t_54 { /* teacher VICTORIA JIMENEZ */
+
+}
+
+span.t_55 { /* teacher XIOMARA CHIRINOS */
+
+}
+
+span.t_56 { /* teacher YUDITH GARCIA */
+
+}
+
+span.t_57 { /* teacher TAYLOR RODRIGUEZ */
+
+}
+
+span.r_1 { /* room AMBIENTE 1 */
+
+}
+
+span.r_2 { /* room AMBIENTE 2 */
+
+}
+
+span.r_3 { /* room AMBIENTE 3 */
+
+}
+
+span.r_4 { /* room AMBIENTE 4 */
+
+}
+
+span.r_5 { /* room AMBIENTE 5 */
+
+}
+
+span.r_6 { /* room AMBIENTE 6 */
+
+}
+
+span.r_7 { /* room AMBIENTE 7 */
+
+}
+
+span.r_8 { /* room AMBIENTE 8 */
+
+}
+
+span.r_9 { /* room AMBIENTE 9 */
+
+}
+
+span.r_10 { /* room AMBIENTE 10 */
+
+}
+
+span.r_11 { /* room AMBIENTE 11 */
+
+}
+
+span.r_12 { /* room AMBIENTE 12 */
+
+}
+
+span.r_13 { /* room AULA SATELITAL */
+
+}
+
+span.r_14 { /* room S.P. */
+
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+td.student, div.student {
+
+}
+
+td.teacher, div.teacher {
+
+}
+
+td.room, div.room {
+
+}
+
+tr.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+  color: gray;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+  color: silver;
+}
+
+
+/* Estilo de períodos libres de profesores */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
+}
+
+
+/* Fin de archivo. */

@@ -1,0 +1,5021 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Teachers_Timetable>
+
+  <Teacher name="ALMUDENA VASQUEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="CONTABILIDAD DE COSTOS I"></Subject><Students name="A EC"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="CONTABILIDAD II"></Subject><Students name="D 3"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="CONTABILIDAD DE COSTOS I"></Subject><Students name="B EC"></Students><Room name="AMBIENTE 12"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="ANGEL GRANADOS">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ANALISIS Y MANEJO DE CARTERAS DE INVERSION"></Subject><Students name="A E  MERCADEO"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="TECNICAS DE DECISION Y SUS PROCESOS"></Subject><Students name="B EC"></Students><Room name="AMBIENTE 8"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="ARGENIS MARCANO">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="MERCADEO"></Subject><Students name="A 3"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="PUBLICIDAD, PROMOCION"></Subject><Students name="A7 MERCADEO"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="INTRODUCCIÓN AL SERVICIO COMUNITARIO"></Subject><Students name="B 5"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="PROBLEMÁTICA DE ADMINISTRACIÓN DE RECURSOS HUMANOS EN VENEZUELA"></Subject><Students name="A6 RRHH"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="ANÁLISIS DE PRODUCTOS"></Subject><Students name="A7 MERCADEO"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     <Subject name="MERCADEO"></Subject><Students name="C 3"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="TÉCNICAS DE RECLUTAMIENTO Y SELECCIÓN"></Subject><Students name="A6 RRHH"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="ARGENIS ROMERO">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="PROBLEMÁTICA DE ADMINISTRACIÓN DE RECURSOS HUMANOS EN VENEZUELA"></Subject><Students name="A6 RRHH"></Students><Room name="AMBIENTE 12"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="TÉCNICAS DE CAPACITACIÓN, ADIESTRAMIENTO Y DESARROLLO DE RECURSOS HUMANOS"></Subject><Students name="A8 RRHH"></Students><Room name="AMBIENTE 11"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="TÉCNICAS DE RECLUTAMIENTO Y SELECCIÓN"></Subject><Students name="A6 RRHH"></Students><Room name="AMBIENTE 9"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="BLANCA TORREALBA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="GESTIÓN DE TECNOLOGÍA"></Subject><Students name="B 5"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="INTRODUCCIÓN AL PROCESAMIENTO DE DATOS"></Subject><Students name="B 4"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="GESTIÓN DE TECNOLOGÍA"></Subject><Students name="A 5"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="INTRODUCCIÓN AL PROCESAMIENTO DE DATOS"></Subject><Students name="A 4"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="DANNY PEÑA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     <Subject name="INICIACIÓN UNIVERSITARIA"></Subject><Students name="B 1"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="INVESTIGACIÓN SOCIAL "></Subject><Students name="B8 RRHH"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="INVESTIGACIÓN SOCIAL "></Subject><Students name="A8 RRHH"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="DARIO GOMEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="HISTORIA ECONÓMICA Y SOCIAL DE VENEZUELA"></Subject><Students name="D 4"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="HISTORIA ECONÓMICA Y SOCIAL DE VENEZUELA"></Subject><Students name="C 4"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="DIEGO DURAN">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="ESTADÍSTICA II"></Subject><Students name="A 3"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="ESTADÍSTICA II"></Subject><Students name="B 3"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="ELSY ROJAS">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="METODOLOGÍA DE LA INVESTIGACIÓN I"></Subject><Students name="E 2"></Students><Room name="AMBIENTE 7"></Room>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="METODOLOGÍA DE LA INVESTIGACIÓN I"></Subject><Students name="D 2"></Students><Room name="AMBIENTE 7"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="ERLYS OCANTO">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     <Subject name="LENGUAJE Y COMUNICACIÓN"></Subject><Students name="A 1"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LENGUAJE Y COMUNICACIÓN"></Subject><Students name="C 1"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="LENGUAJE Y COMUNICACIÓN"></Subject><Students name="B 1"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="LENGUAJE Y COMUNICACIÓN"></Subject><Students name="D 1"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="LENGUAJE Y COMUNICACIÓN"></Subject><Students name="E 1"></Students><Room name="AMBIENTE 10"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="ESTRELLA YUSTIZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     <Subject name="ESTADÍSTICA II"></Subject><Students name="C 3"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="FERNANDO BARBARA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     <Subject name="INICIACIÓN UNIVERSITARIA"></Subject><Students name="A 1"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="MÉTODOS Y TÉCNICAS DE ESTUDIO"></Subject><Students name="E 1"></Students><Room name="AMBIENTE 12"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="METODOLOGÍA DE LA INVESTIGACIÓN II"></Subject><Students name="B 3"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="MÉTODOS Y TÉCNICAS DE ESTUDIO"></Subject><Students name="D 1"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="GLEDYS GONZALEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="TÉCNICAS DE ANÁLISIS Y EVALUACIÓN DE CARGOS"></Subject><Students name="A6 RRHH"></Students><Room name="AMBIENTE 9"></Room>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="TÉCNICAS DE EVALUACIÓN DE EFICIENCIA"></Subject><Students name="A  E RRHH"></Students><Room name="AMBIENTE 10"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="POLÍTICA DE DESARROLLO ECONÓMICO SOCIAL Y POLÍTICA DE EMPLEO"></Subject><Students name="A8 RRHH"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="ACCIÓN Y POLÍTICA DE REMUNERACIÓN"></Subject><Students name="A9 RRHH"></Students><Room name="AMBIENTE 7"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="GLORIA MENDEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="MÉTODOS Y TÉCNICAS DE ESTUDIO"></Subject><Students name="B 1"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="MÉTODOS Y TÉCNICAS DE ESTUDIO"></Subject><Students name="A 1"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="MÉTODOS Y TÉCNICAS DE ESTUDIO"></Subject><Students name="C 1"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="GLORIS DUGARTE">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ADMINISTRACIÓN PÚBLICA"></Subject><Students name="H 4"></Students><Room name="AULA SATELITAL"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ADMINISTRACIÓN PÚBLICA"></Subject><Students name="J 4"></Students><Room name="AULA SATELITAL"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ADMINISTRACIÓN PÚBLICA"></Subject><Students name="G 4"></Students><Room name="AULA SATELITAL"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="ADMINISTRACIÓN PÚBLICA"></Subject><Students name="I 4"></Students><Room name="AULA SATELITAL"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="GUSTAVO GONZALEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="PRESUPUESTO"></Subject><Students name="F 5"></Students><Room name="AMBIENTE 8"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="PRESUPUESTO"></Subject><Students name="G 5"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="MATEMÁTICA FINANCIERA"></Subject><Students name="J 4"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="HERNAN URDANETA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ESTADÍSTICA II"></Subject><Students name="F 3"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ESTADÍSTICA II"></Subject><Students name="E 3"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="TERMINOLOGÍA EN ESTADÍSTICA E INVESTIGACIÓN"></Subject><Students name="D 1"></Students><Room name="AMBIENTE 7"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ESTADÍSTICA II"></Subject><Students name="D 3"></Students><Room name="AMBIENTE 10"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="ITALIA CAMPORA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="HISTORIA ECONÓMICA Y SOCIAL DE VENEZUELA"></Subject><Students name="A 4"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="JAIDA GONZALES">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="JERIG PARGA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     <Subject name="ADMINISTRACIÓN PÚBLICA"></Subject><Students name="C 4"></Students><Room name="AULA SATELITAL"></Room>
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="ADMINISTRACIÓN PÚBLICA"></Subject><Students name="E 4"></Students><Room name="AULA SATELITAL"></Room>
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="ADMINISTRACIÓN PÚBLICA"></Subject><Students name="B 4"></Students><Room name="AULA SATELITAL"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     <Subject name="ADMINISTRACIÓN PÚBLICA"></Subject><Students name="D 4"></Students><Room name="AULA SATELITAL"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="ADMINISTRACIÓN PÚBLICA"></Subject><Students name="F 4"></Students><Room name="AULA SATELITAL"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="ADMINISTRACIÓN PÚBLICA"></Subject><Students name="A 4"></Students><Room name="AULA SATELITAL"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="JOHANA VANMONTE">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     <Subject name="PRECALCULO"></Subject><Students name="C 1"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="PRECALCULO"></Subject><Students name="B 1"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="JORGE CASTILLO">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="SEGURIDAD SOCIAL"></Subject><Students name="A8 RRHH"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="LEGISLACIÓN MERCANTIL"></Subject><Students name="F 5"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="ASPECTOS LEGALES DEL MERCADEO"></Subject><Students name="A6 MERCADEO"></Students><Room name="AMBIENTE 9"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="JOSE GUTIERREZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ECONOMÍA GENERAL"></Subject><Students name="E 2"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="MERCADEO"></Subject><Students name="F 3"></Students><Room name="AMBIENTE 10"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="ECONOMÍA GENERAL"></Subject><Students name="A 2"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="ECONOMÍA GENERAL"></Subject><Students name="B 2"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="TÉCNICAS DE DISTRIBUCIÓN Y LOCALIZACIÓN DE FACILIDADES"></Subject><Students name="A8 MERCADEO"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="FORMULACIÓN Y EVALUACIÓN DE PROYECTOS"></Subject><Students name="A EC"></Students><Room name="AMBIENTE 9"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="JOSE LUIS GUZMAN">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="INTRODUCCIÓN AL SERVICIO COMUNITARIO"></Subject><Students name="F 5"></Students><Room name="AMBIENTE 12"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="INTRODUCCIÓN AL SERVICIO COMUNITARIO"></Subject><Students name="G 5"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="LINA ROMERO">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ANÁLISIS DE PRODUCTIVIDAD DEL MERCADEO"></Subject><Students name="B9 MERCADEO"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="COMERCIO INTERNACIONAL"></Subject><Students name="A E  MERCADEO"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="ECONOMÍA GENERAL"></Subject><Students name="C 2"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ECONOMÍA GENERAL"></Subject><Students name="D 2"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="DIRECCIÓN DE MERCADEO"></Subject><Students name="A8 MERCADEO"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="LOREANA RAMIREZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="TERMINOLOGÍA EN ESTADÍSTICA E INVESTIGACIÓN"></Subject><Students name="A 1"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="TERMINOLOGÍA EN ESTADÍSTICA E INVESTIGACIÓN"></Subject><Students name="B 1"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="METODOLOGÍA DE LA INVESTIGACIÓN I"></Subject><Students name="B 2"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="TERMINOLOGÍA EN ESTADÍSTICA E INVESTIGACIÓN"></Subject><Students name="E 1"></Students><Room name="AMBIENTE 8"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     <Subject name="TERMINOLOGÍA EN ESTADÍSTICA E INVESTIGACIÓN"></Subject><Students name="C 1"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="METODOLOGÍA DE LA INVESTIGACIÓN I"></Subject><Students name="A 2"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="LUIS ALVAREZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="PLANIFICACIÓN"></Subject><Students name="B EC"></Students><Room name="AMBIENTE 9"></Room>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     <Subject name="PLANIFICACIÓN"></Subject><Students name="A EC TURNO MAÑANA"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="MODELOS ADMINISTRATIVOS"></Subject><Students name="A EC TURNO MAÑANA"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="MODELOS ADMINISTRATIVOS"></Subject><Students name="B EC"></Students><Room name="AMBIENTE 8"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="MODELOS ADMINISTRATIVOS"></Subject><Students name="C EC"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="LUIS COLOMBO">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="DESARROLLO ORGANIZACIONAL"></Subject><Students name="A EC"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="COMPORTAMIENTO ORGANIZACIONAL"></Subject><Students name="A7 RRHH"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="LUIS TORRES">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="PRECALCULO"></Subject><Students name="D 1"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="PRECALCULO"></Subject><Students name="A 1"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="PRECALCULO"></Subject><Students name="E 1"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="MARIA CASTRO">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="INTRODUCCION A LA ADMINISTRACION"></Subject><Students name="E 2"></Students><Room name="AMBIENTE 11"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="INTRODUCCION A LA ADMINISTRACION"></Subject><Students name="D 2"></Students><Room name="AMBIENTE 11"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="MARIA LOZADA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ESTADÍSTICA I"></Subject><Students name="E 2"></Students><Room name="AMBIENTE 8"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ESTADÍSTICA I"></Subject><Students name="D 2"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="MARIA MENDEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="INTRODUCCIÓN AL PROCESAMIENTO DE DATOS"></Subject><Students name="H 4"></Students><Room name="AMBIENTE 11"></Room>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="INTRODUCCIÓN AL PROCESAMIENTO DE DATOS"></Subject><Students name="J 4"></Students><Room name="AMBIENTE 12"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="INTRODUCCIÓN AL PROCESAMIENTO DE DATOS"></Subject><Students name="I 4"></Students><Room name="AMBIENTE 10"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="MARIA MUJICA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     <Subject name="ANÁLISIS DE ESTADOS FINANCIEROS"></Subject><Students name="A 4"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     <Subject name="ANÁLISIS DE ESTADOS FINANCIEROS"></Subject><Students name="F 4"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     <Subject name="ANÁLISIS DE ESTADOS FINANCIEROS"></Subject><Students name="E 4"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="ANÁLISIS DE ESTADOS FINANCIEROS"></Subject><Students name="B 4"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="MARIA PETROSANTI">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="DERECHO DEL TRABAJO"></Subject><Students name="A6 RRHH"></Students><Room name="AMBIENTE 9"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LEGISLACIÓN MERCANTIL"></Subject><Students name="B 5"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="LEGISLACIÓN MERCANTIL"></Subject><Students name="G 5"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LEGISLACIÓN MERCANTIL"></Subject><Students name="A 5"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="SINDICALISMO Y CONTRATACIÓN COLECTIVA"></Subject><Students name="A7 RRHH"></Students><Room name="AMBIENTE 7"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="MARIELA SANTANDER">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     <Subject name="METODOLOGÍA DE LA INVESTIGACIÓN II"></Subject><Students name="A 3"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="MARLENE GUTIERREZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="INTRODUCCION A LA ADMINISTRACION"></Subject><Students name="C 2"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="ADMINISTRACIÓN DE RECURSOS HUMANOS"></Subject><Students name="A 3"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     <Subject name="ADMINISTRACIÓN DE RECURSOS HUMANOS"></Subject><Students name="C 3"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="INTRODUCCION A LA ADMINISTRACION"></Subject><Students name="B 2"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="ADMINISTRACIÓN DE RECURSOS HUMANOS"></Subject><Students name="B 3"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="INTRODUCCION A LA ADMINISTRACION"></Subject><Students name="A 2"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="MERY ESCALONA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     <Subject name="METODOLOGÍA DE LA INVESTIGACIÓN I"></Subject><Students name="C 2"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="INTRODUCCIÓN AL SERVICIO COMUNITARIO"></Subject><Students name="A 5"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ADMINISTRACIÓN DE RECURSOS HUMANOS"></Subject><Students name="D 3"></Students><Room name="AMBIENTE 8"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="ADMINISTRACIÓN DE RECURSOS HUMANOS"></Subject><Students name="E 3"></Students><Room name="AMBIENTE 11"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="METODOLOGÍA DE LA INVESTIGACIÓN II"></Subject><Students name="E 3"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="NANCY TORRES">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="ESTADÍSTICA I"></Subject><Students name="B 2"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     <Subject name="ESTADÍSTICA I"></Subject><Students name="A 2"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="ESTADÍSTICA I"></Subject><Students name="C 2"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="NELSON FERNANDEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="SISTEMAS DE INFORMACION GERENCIAL"></Subject><Students name="A EC"></Students><Room name="AMBIENTE 10"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="SISTEMAS DE INFORMACION GERENCIAL"></Subject><Students name="B EC"></Students><Room name="AMBIENTE 8"></Room>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     <Subject name="MERCADEO"></Subject><Students name="B 3"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="SISTEMAS DE INFORMACION GERENCIAL"></Subject><Students name="C EC"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="MERCADEO"></Subject><Students name="E 3"></Students><Room name="AMBIENTE 7"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="MERCADEO"></Subject><Students name="D 3"></Students><Room name="AMBIENTE 12"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="INVESTIGACIÓN DE MERCADEO"></Subject><Students name="A6 MERCADEO"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="OSWALDO TONA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="HISTORIA ECONÓMICA Y SOCIAL DE VENEZUELA"></Subject><Students name="I 4"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="HISTORIA ECONÓMICA Y SOCIAL DE VENEZUELA"></Subject><Students name="H 4"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="DESARROLLO SOCIO-ECONÓMICO"></Subject><Students name="A  E RRHH"></Students><Room name="AMBIENTE 9"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="PABLO ARROYO">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     <Subject name="HISTORIA ECONÓMICA Y SOCIAL DE VENEZUELA"></Subject><Students name="B 4"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="PATRICIA LEON">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ANÁLISIS DE ESTADOS FINANCIEROS"></Subject><Students name="G 4"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     <Subject name="CONTABILIDAD I"></Subject><Students name="B 2"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="ANÁLISIS DE ESTADOS FINANCIEROS"></Subject><Students name="C 4"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     <Subject name="CONTABILIDAD I"></Subject><Students name="C 2"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="ANÁLISIS DE ESTADOS FINANCIEROS"></Subject><Students name="D 4"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="CONTABILIDAD II"></Subject><Students name="C 3"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="PEDRO IZARZA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="CONTABILIDAD II"></Subject><Students name="B 3"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="FINANZAS E IMPUESTO"></Subject><Students name="F 5"></Students><Room name="AMBIENTE 7"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="FINANZAS E IMPUESTO"></Subject><Students name="G 5"></Students><Room name="AMBIENTE 10"></Room>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="FINANZAS E IMPUESTO"></Subject><Students name="B 5"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     <Subject name="FINANZAS E IMPUESTO"></Subject><Students name="A 5"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="PEDRO RODRIGUEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="CONTABILIDAD II"></Subject><Students name="E 3"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="CONTABILIDAD II"></Subject><Students name="F 3"></Students><Room name="AMBIENTE 11"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="CONTABILIDAD II"></Subject><Students name="A 3"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="RONALD ORDOÑEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="TÉCNICAS DE PROGRAMACIÓN Y CONTROL APLICADAS AL MERCADEO"></Subject><Students name="A7 MERCADEO"></Students><Room name="AMBIENTE 11"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="FORMULACIÓN DE PROYECTO  SOCIO COMUNITARIO"></Subject><Students name="A9 RRHH"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="FORMULACIÓN DE PROYECTO  SOCIO COMUNITARIO"></Subject><Students name="B9 MERCADEO"></Students><Room name="AMBIENTE 6"></Room>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="PLANIFICACIÓN Y ESTRATEGIAS DE MERCADO"></Subject><Students name="B9 MERCADEO"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="COMERCIALIZACIÓN"></Subject><Students name="A8 MERCADEO"></Students><Room name="AMBIENTE 11"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="PLANIFICACIÓN Y ESTRATEGIAS DE MERCADO"></Subject><Students name="A9 MERCADEO"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="INVESTIGACIÓN SOCIAL "></Subject><Students name="A8 MERCADEO"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="ROSA PEROZO">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     <Subject name="INICIACIÓN UNIVERSITARIA"></Subject><Students name="C 1"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="CONTABILIDAD I"></Subject><Students name="D 2"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="CONTABILIDAD I"></Subject><Students name="E 2"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     <Subject name="CONTABILIDAD I"></Subject><Students name="A 2"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="RUBEN ISTURIZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="PSICOLOGÍA INDUSTRIAL"></Subject><Students name="A6 RRHH"></Students><Room name="AMBIENTE 12"></Room>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="PSICOLOGÍA APLICADA AL MERCADEO"></Subject><Students name="A6 MERCADEO"></Students><Room name="AMBIENTE 8"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="SANDRA PEÑA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="MERCADEO II"></Subject><Students name="A6 MERCADEO"></Students><Room name="AMBIENTE 7"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="SHERLY MERIDA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="PRESUPUESTO"></Subject><Students name="A 5"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="ADMINISTRACIÓN Y ORGANIZACIÓN DE VENTAS"></Subject><Students name="A6 MERCADEO"></Students><Room name="AMBIENTE 11"></Room>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="PRESUPUESTO"></Subject><Students name="B 5"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="SONIA PINEDA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     <Subject name="MATEMÁTICA FINANCIERA"></Subject><Students name="B 4"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     <Subject name="MATEMÁTICA FINANCIERA"></Subject><Students name="C 4"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     <Subject name="MATEMÁTICA FINANCIERA"></Subject><Students name="A 4"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="SORAYA NOGUERA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="MATEMÁTICA FINANCIERA"></Subject><Students name="G 4"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="MATEMÁTICA FINANCIERA"></Subject><Students name="I 4"></Students><Room name="AMBIENTE 9"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="MATEMÁTICA FINANCIERA"></Subject><Students name="H 4"></Students><Room name="AMBIENTE 12"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="SUSANA RODRIGUEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="INICIACIÓN UNIVERSITARIA"></Subject><Students name="E 1"></Students><Room name="AMBIENTE 10"></Room>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="INICIACIÓN UNIVERSITARIA"></Subject><Students name="D 1"></Students><Room name="AMBIENTE 8"></Room>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="TÉCNICAS DE SUPERVISIÓN"></Subject><Students name="A9 RRHH"></Students><Room name="AMBIENTE 3"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="VICKI MATA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="ADMINISTRACIÓN DE LA PRODUCCIÓN"></Subject><Students name="B EC"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="ADMINISTRACIÓN DE LA PRODUCCIÓN"></Subject><Students name="C EC"></Students><Room name="AMBIENTE 5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     <Subject name="ADMINISTRACIÓN DE LA PRODUCCIÓN"></Subject><Students name="A EC TURNO MAÑANA"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="ADMINISTRACIÓN DE RECURSOS HUMANOS"></Subject><Students name="F 3"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="VICTORIA JIMENEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="METODOLOGÍA DE LA INVESTIGACIÓN II"></Subject><Students name="C 3"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="METODOLOGÍA DE LA INVESTIGACIÓN II"></Subject><Students name="F 3"></Students><Room name="AMBIENTE 10"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="XIOMARA CHIRINOS">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="PLANIFICACIÓN DE RECURSOS HUMANOS"></Subject><Students name="A7 RRHH"></Students><Room name="AMBIENTE 9"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="METODOLOGÍA DE LA INVESTIGACIÓN II"></Subject><Students name="D 3"></Students><Room name="AMBIENTE 2"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="YUDITH GARCIA">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     <Subject name="INTRODUCCIÓN AL PROCESAMIENTO DE DATOS"></Subject><Students name="C 4"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="GESTIÓN DE TECNOLOGÍA"></Subject><Students name="F 5"></Students><Room name="AMBIENTE 12"></Room>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="TECNICAS DE DECISION Y SUS PROCESOS"></Subject><Students name="A EC"></Students><Room name="AMBIENTE 7"></Room>
+    </Hour>
+    <Hour name="08:15">
+     <Subject name="GESTIÓN DE TECNOLOGÍA"></Subject><Students name="G 5"></Students><Room name="AMBIENTE 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     <Subject name="INTRODUCCIÓN AL PROCESAMIENTO DE DATOS"></Subject><Students name="D 4"></Students><Room name="AMBIENTE 4"></Room>
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+  <Teacher name="TAYLOR RODRIGUEZ">
+   <Day name="Lunes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="07:00">
+     
+    </Hour>
+    <Hour name="08:35">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="06:40">
+     <Subject name="HISTORIA ECONÓMICA Y SOCIAL DE VENEZUELA"></Subject><Students name="J 4"></Students><Room name="AMBIENTE 12"></Room>
+    </Hour>
+    <Hour name="08:15">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+
+</Teachers_Timetable>

@@ -1,0 +1,9 @@
+﻿Mostrar conflictos leves de OFERTA ACADEMICA 2011-1(BETA).fet
+Generado con FET 5.14.3 en 19/01/11 09:49
+
+Total conflictos leves: 0
+
+Lista de conflictos en orden decreciente:
+
+
+Fin de archivo.
